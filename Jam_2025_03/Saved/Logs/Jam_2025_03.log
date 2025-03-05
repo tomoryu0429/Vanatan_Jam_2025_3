@@ -913,3 +913,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.03.05-03.18.29:932][815]AssetCheck: New page: アセット保存：複数のアセット
 [2025.03.05-03.18.29:932][815]LogContentValidation: Display: MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData を検証しています
 [2025.03.05-03.18.29:932][815]LogContentValidation: Display: World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap を検証しています
+[2025.03.05-03.25.47:778][738]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2025.03.05-03.25.47:787][738]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2025.03.05-03.25.50:809][919]LogContentBrowser: Attempting asset rename: 新規フォルダ -> Tomonaga
+[2025.03.05-03.25.50:809][919]LogContentBrowser: End creating deferred item 新規フォルダ
+[2025.03.05-03.25.53:007][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.05-03.25.53:032][ 49]LogSavePackage: Moving '../../../../../../UnrealProject/Vanatan_Jam_2025_3/Jam_2025_03/Saved/TopDownExampleMap0817971C47A113E16B44EA92A8AD3A19.tmp' to '../../../../../../UnrealProject/Vanatan_Jam_2025_3/Jam_2025_03/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2025.03.05-03.25.53:098][ 49]LogSavePackage: Moving '../../../../../../UnrealProject/Vanatan_Jam_2025_3/Jam_2025_03/Saved/TopDownExampleMap_BuiltData3E2EFB8740D6AE1F8526F1A4BC78EA2E.tmp' to '../../../../../../UnrealProject/Vanatan_Jam_2025_3/Jam_2025_03/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2025.03.05-03.25.53:118][ 49]AssetCheck: New page: アセット保存：複数のアセット
+[2025.03.05-03.25.53:118][ 49]LogContentValidation: Display: MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData を検証しています
+[2025.03.05-03.25.53:118][ 49]LogContentValidation: Display: World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap を検証しています
